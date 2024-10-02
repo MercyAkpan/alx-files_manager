@@ -1,4 +1,3 @@
-
 {
 	"name": "files_manager",
 	"version": "1.0.0",
@@ -34,7 +33,7 @@
 		"@babel/register": "^7.8.0",
 		"chai": "^4.2.0",
 		"chai-http": "^4.3.0",
-		"eslint": "^6.4.0",
+		"eslint": "^7.32.0",
 		"eslint-config-airbnb-base": "^14.0.0",
 		"eslint-plugin-import": "^2.18.2",
 		"eslint-plugin-jest": "^28.8.3",
